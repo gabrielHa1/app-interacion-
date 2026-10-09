@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- GPU Graphics Card -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M2,6v12h20V6H2zm18,10H4V8h16v8zm-9,-5a2,2 0 1,0 0,-4 2,2 0 0,0 0,4zm5,0a2,2 0 1,0 0,-4 2,2 0 0,0 0,4zM6,19h3v2H6zm5,0h3v2h-3z" />
+</vector>

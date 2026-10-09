@@ -1,0 +1,6 @@
+{
+  "name": "TechPerú Store",
+  "description": "Tienda digital de tecnología gamer, componentes y periféricos en Perú con pasarela de pagos y asesoría WhatsApp",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

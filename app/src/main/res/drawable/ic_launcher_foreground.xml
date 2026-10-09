@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Tech Chip Base -->
+    <path
+        android:pathData="M38,36 h32 a4,4 0 0 1 4,4 v32 a4,4 0 0 1 -4,4 h-32 a4,4 0 0 1 -4,-4 v-32 a4,4 0 0 1 4,-4 z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="34"
+                android:startY="36"
+                android:endX="74"
+                android:endY="76"
+                android:type="linear">
+                <item android:color="#00E5FF" android:offset="0.0" />
+                <item android:color="#7C4DFF" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Chip Pins Top & Bottom -->
+    <path
+        android:pathData="M44,30 v6 M54,30 v6 M64,30 v6 M44,72 v6 M54,72 v6 M64,72 v6 M30,44 h6 M30,54 h6 M30,64 h6 M72,44 h6 M72,54 h6 M72,64 h6"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round" />
+    <!-- Inner Shopping / Lightning Symbol -->
+    <path
+        android:pathData="M56,42 L46,55 L53,55 L51,66 L62,53 L55,53 Z"
+        android:fillColor="#FFFFFF" />
+</vector>
